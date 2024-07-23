@@ -1,3 +1,3 @@
 - iOS Developer
-- Email: kirylkaveryn@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kiryl-kaveryn/  
+- [kirylkaveryn@gmail.com](kirylkaveryn@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/kiryl-kaveryn/)
